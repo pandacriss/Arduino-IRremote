@@ -1,3 +1,6 @@
+## 2.1.1 - 2016/03/30
+- Add Ir2Keyboard.ino example. fordwarding IR commands into keyboard pulses and media keys [PR #292] (https://github.com/z3t0/Arduino-IRremote/pull/292)
+
 ## 2.1.0 - 2016/02/20
 - Improved Debugging [PR #258](https://github.com/z3t0/Arduino-IRremote/pull/258)
 - Display TIME instead of TICKS [PR #258](https://github.com/z3t0/Arduino-IRremote/pull/258)
